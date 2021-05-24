@@ -1,0 +1,45 @@
+body {
+  width: 700px; 
+  padding: 20px;
+  line-height: 1.2;
+  font-size: 14px;
+}
+
+h1 {font-size: 26px; color: #012E58; margin: 10px 0 10px 0;}
+h3#job{ font-weight: normal; color: #012E58; margin: 10px 0px;}
+h2 {color: #012E58; font-size: 18px;}
+
+.fa-linkedin, .fa-envelope-square, .fa-calendar-alt, .fa-phone-square {
+  color: #012E58;
+}
+
+div#me-basic-info {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+table#me-basic-info{
+  width: 100%;
+}
+
+ul {margin: 5px 0 5px -24px;}
+ul li {padding: 2px 0px;}
+
+.avatar {position: absolute; right: 10px;}
+
+.fa-briefcase, .fa-graduation-cap, .fa-language, .fa-hand-peace{
+  background-color: #012E58;
+  color: white;
+  padding: 3px;
+}
+
+.section-content {display: table;}
+.period {display: table-cell; width: 160px; font-weight: 600;}
+.period-content { display: table-cell; }
+
+.section-title {border-bottom: 1px solid #ddd;}
+.section-subtitle {font-size: 16px; margin: 10px 0;}
+.bold{font-weight: 600;}
+.italic{font-style: italic;}
+.light{font-weight: 300;}
+
+#fix-for-print {padding-top: 10px;}
